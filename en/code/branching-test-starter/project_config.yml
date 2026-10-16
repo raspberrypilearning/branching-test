@@ -1,0 +1,4 @@
+name: "Branching test starter"
+identifier: "branching-test-starter"
+type: 'code_editor_scratch'
+build: true

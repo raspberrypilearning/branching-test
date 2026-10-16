@@ -1,14 +1,11 @@
-title: Project title in sentence case
+title: Branching pathways
 hero_image: images/banner.png
-description: A short description of the project
+description: Follow the Branching pathways project instructions
 listed: false
 pdf: false
 steps:
-  - title: What you will make
-  - title: Step title
+  - title: Branching pathways
     completion:
-      - engaged      
-  - title: Challenge
-    challenge: true
-    completion:
+      - engaged
+      - internal
       - external
