@@ -1,5 +1,9 @@
 ## Branching pathways
 
-The starter project is open beside these instructions.
+--- task ---
 
-Open the [Branching pathways project](https://rpf.io/platformer){:target="_blank"} and follow the instructions there.
+Open the [Branching pathways project](https://rpf.io/platformer){:target="_blank"}.
+
+--- /task ---
+
+The starter project is open here.
