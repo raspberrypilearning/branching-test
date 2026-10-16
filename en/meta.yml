@@ -3,6 +3,7 @@ hero_image: images/banner.png
 description: Follow the Branching pathways project instructions
 listed: false
 pdf: false
+landing: true
 steps:
   - title: Branching pathways
     completion:
